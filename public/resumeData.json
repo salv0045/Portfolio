@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name":"Ashish Salve",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpeg",
+    "bio":"Self-motivated, detail-oriented, and focused professional with ability to lead and take ownership and responsibility. Strengths in  JavaScript, Python, JAVA, Linux/Windows Operating Systems.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "salveashish95@gmail.com",
+    
+    "address":{
+      "street":"Clovelly Park",
+      "city":"Adelaide",
+      "state":"SA",
+      "zip": "5042"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"Ashish_Salve.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashish-salve/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/salv0045",
+        "className":"fa fa-github"
+      }
+      
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":" Flinders University Adelaide, SA, Australia(GPA- 5.12/7.0)",
+        "degree":"Masters in Information Technology",
+        "graduated":"Jan 2021",
+        "description":"Coursework: Algorithms & Data Structures, Operating Systems, Advanced Topics in Data Bases: Cloud Computing, Distributed Systems, Data Analysis & Modeling Techniques, Database Systems"
+      },
+      {
+        "school":"University of Mumbai, Mumbai, India(GPA- 3.2/4.0)",
+        "degree":"Bachelor of Engineering in Electronics",
+        "graduated":"June 2017",
+        "description":"Coursework: Object Oriented Programming, Structured Programming Approach, Computer Communication Networks"
+      }
+    ],
+    
+    
+    "skills":[
+      {
+        "name": "Programming Languages: ",
+        "list": "Python, Java"
+      },
+     {
+        "name": "Web Technologies: ",
+        "list": "JavaScript, React JS, HTML, CSS, RESTful Web Services, JSON, ML Tools (NumPy, Pandas)."
+      },
+      {
+        "name": "Database: ",
+        "list": "MySQL, Google Cloud Datastore"
+      },
+      {
+        "name": "Cloud Services: ",
+        "list": "Microsoft Azure, Google Cloud Platform"
+      },
+      {
+        "name": "Tools/Software: ",
+        "list": "Visual Studio Code, Eclipse IDE, GitHub, Jupyter Notebook, PyCharm."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Food Recipe-App",
+        "category":"Dynamic Responsive website, JavaScript, React, CSS, HTML. This will give you a recipe for your Lunch, Dinner, Breakfast and even for Coctails ",
+        "image":"F.jpeg",
+        "url":"https://stupefied-yonath-3e7fbe.netlify.app"
+      },
+      {
+        "title":"Crypto-Tracker",
+        "category":"A cryptocurrency tracking app allowing users  to search currencies and have it display on the browser. JavaScript, Reactjs, React Hoook, React Axios, HTML, Css",
+        "image":"FS.jpeg",
+        "url":"https://crypto-tracker-f72eed.netlify.app"
+      },
+      {
+        "title":"Todo App",
+        "category":"Todo-app based on JavaScript, React, CSS, HTML. Make your Todo List, with features of marking it complete/incomplete and even deleting it ",
+        "image":"TOdo.jpeg",
+        "url":"https://jolly-jennings-e74805.netlify.app"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"A.PNG",
+        "url":"https://sanket-salunke.netlify.app/"
+      }
+    ]
+  }
+}
