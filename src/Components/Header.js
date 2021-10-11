@@ -35,7 +35,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}</h1>
-            <h3>I'm a Graduate Information Technology student at Flinders University Adelaide| Software Developer </h3>
+            <h3>I'm a Graduate Information Technology student at Flinders University, Adelaide.| Software Developer </h3>
             <hr />
             <a href="mailto:salveashish95@gmail.com" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-envelope-square" aria-hidden="true" />
