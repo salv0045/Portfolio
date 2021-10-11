@@ -60,13 +60,13 @@ class Resume extends Component {
                <span>
                  <strong>Web Technologies & Frameworks: </strong>
                </span>
-               <em>JavaScript, HTML, CSS, ReactJS, Node.js.</em>
+               <em>JavaScript, HTML5, CSS3, ReactJS, Node.js, SQL</em>
              </li>
              <li>
                <span>
                  <strong>Database Systems: </strong>
                </span>
-               <em>MySQL, MS SQL Server, SQLite, SQL.</em>
+               <em>MySQL, MS SQL Server, AWS </em>
              </li>
              <li>
                <span>
@@ -88,7 +88,12 @@ class Resume extends Component {
                </span>
                <em>Linux, Microsoft Windows.</em>
              </li>
-             
+             <li>
+               <span>
+                 <strong>Tools and other Technology: </strong>
+               </span>
+               <em>Git, Visual Studio Code, PyCharm, JSON, HTTP, JUnit.</em>
+             </li>
 
              
 					  {/* {skills} */}

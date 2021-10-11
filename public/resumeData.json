@@ -4,7 +4,7 @@
     "occupation":"(Your Occupation Here)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpeg",
-    "bio":"Self-motivated, detail-oriented, and focused professional with ability to lead and take ownership and responsibility. Strengths in  JavaScript, Python, JAVA, Linux/Windows Operating Systems.",
+    "bio":"Self-motivated, detail-oriented, and focused professional with ability to lead and take ownership and responsibility. Strengths in  JavaScript, Python, ReactJs, Linux/Windows Operating Systems.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "salveashish95@gmail.com",
     
@@ -56,7 +56,7 @@
       },
      {
         "name": "Web Technologies: ",
-        "list": "JavaScript, React JS, HTML, CSS, RESTful Web Services, JSON, ML Tools (NumPy, Pandas)."
+        "list": "JavaScript, React JS, HTML5, CSS3, RESTful Web Services, JSON, ML Tools (NumPy, Pandas)."
       },
       {
         "name": "Database: ",
@@ -76,13 +76,13 @@
     "projects": [
       {
         "title":"Food Recipe-App",
-        "category":"Dynamic Responsive website, JavaScript, React, CSS, HTML. This will give you a recipe for your Lunch, Dinner, Breakfast and even for Coctails ",
+        "category":"Dynamic Responsive website, JavaScript, React, CSS, HTML. This will give you a recipe for your Lunch, Dinner, Breakfast and even for Cocktails ",
         "image":"F.jpeg",
         "url":"https://stupefied-yonath-3e7fbe.netlify.app"
       },
       {
         "title":"Crypto-Tracker",
-        "category":"A cryptocurrency tracking app allowing users  to search currencies and have it display on the browser. JavaScript, Reactjs, React Hoook, React Axios, HTML, Css",
+        "category":"A cryptocurrency tracking app allowing users  to search currencies and have it display on the browser. JavaScript, ReactJs, React Hooks, React Axios, HTML, CSS",
         "image":"FS.jpeg",
         "url":"https://crypto-tracker-f72eed.netlify.app"
       },
